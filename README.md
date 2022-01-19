@@ -43,7 +43,7 @@ My goal is for the model to accurately predict which subreddit a post belongs to
 ## The Data Science Process
 <a id='data_col'></a>
 ### Data Collection, EDA & Cleansing
-To develop my classification model, I needed data from Reddit, specifically user submissions from my two target subreddits so I could my model could be training to differentiate between their posts. Using the Pushshift API, requests, json and while loops, I scraped the following data:
+To develop my classification model, I needed data from Reddit, specifically user submissions from my two target subreddits so my model could be training to differentiate between their posts. Using the Pushshift API, requests, json and while loops, I scraped the following data:
 * 1500 submissions from ```r/python``` (majority class)
 * 1500 submissions from ```r/montypython```
 
